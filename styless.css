@@ -29,3 +29,8 @@ h1 {
     gap: 1rem;
     margin-bottom: 1.5rem;
 }
+label {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
