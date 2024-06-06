@@ -37,3 +37,17 @@ label {
 input[type="checkbox"] {
     margin-right: 0.5rem;
 }
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    display: block;
+    margin: 0 auto;
+}
+button:hover {
+    background-color: #0056b3;
+}
